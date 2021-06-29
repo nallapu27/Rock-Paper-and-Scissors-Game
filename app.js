@@ -56,7 +56,7 @@ function select()
             }
            
 
-           gamedeclaration(round);
+           
             
             
           
