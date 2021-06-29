@@ -46,7 +46,7 @@ function select()
            
             
             setTimeout(()=>{
-                game(this,computerchoice);
+                game(this,computerchoice,round);
 
             },2000);
             if(!gamedeclaration(round))
@@ -115,7 +115,7 @@ function gamedeclaration(round)
 }*/
 
 
-let game= (playerchoice,computerchoice) => 
+let game= (playerchoice,computerchoice,round) => 
 {
     let heading=document.querySelector('.choose');
     let buttonrock=document.querySelector('.rock');
@@ -156,9 +156,12 @@ let game= (playerchoice,computerchoice) =>
                 
                 computerhand.src="assets/paper.png";
                 heading.textContent="Computer Won";
+             if(round.textContent<10)
+             {
+              
                 cscore.textContent++;
                 round.textContent++;
-                
+             }
 
                 return;
             }
@@ -167,9 +170,12 @@ let game= (playerchoice,computerchoice) =>
                 
                 computerhand.src="assets/scissors.png";
                 heading.textContent="You Won";
+             if(round.textContent<10)
+             {
+              
                 pscore.textContent++;
                 round.textContent++;
-
+             }
                 return ;
             }
         }
@@ -180,18 +186,26 @@ let game= (playerchoice,computerchoice) =>
             {
                 computerhand.src="assets/scissors.png";
                 heading.textContent="Computer Won";
+             if(round.textContent<10)
+             {
+              
                 cscore.textContent++;
                 round.textContent++;
                 return;
+             }
             }
             else{
             
                
                 computerhand.src="assets/rock.png";
                 heading.textContent="You Won";
+             if(round.textContent<10)
+             {
+              
                 pscore.textContent++;
                 round.textContent++;
                 return ;
+             }
             }
         }
         if(playerchoice===buttonscissors)
@@ -203,18 +217,26 @@ let game= (playerchoice,computerchoice) =>
                
                 computerhand.src="assets/rock.png";
                 heading.textContent="Computer Won";
+             if(round.textContent<10)
+             {
+              
                 cscore.textContent++;
                 round.textContent++;
                 return;
+             }
             }
             else{
                 
                 
                 computerhand.src="assets/paper.png";
                 heading.textContent="You Won";
+             if(round.textContent<10)
+             {
+              
                 pscore.textContent++;
                 round.textContent++;
                 return ;
+             }
             }
         }
 
