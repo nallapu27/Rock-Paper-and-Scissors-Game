@@ -1,13 +1,13 @@
 # Rock-Paper-and-Scissors-Game
 
 **Description of the Game**
--Rock,Paper and Scissors is a fun game where there is a single player in this game whose opponent is computer in this game.
--The player in this game chooses any of the three options Rock or Paper or Scissors and accordingly the computer randomly generates an option at the same time.
--Depending upon both the player and computer options and based on the game logic the result is declared as either player or computer is won or may be a tie.
--This game  contains 10 rounds where each time the player or computer winning game is considered as one round and tie is not considered as a round.
--Accordingly the scores are incremented at each round of the game. 
--After  10 rounds the result is declared based upon the scores of player and computer at that time.
--The player can replay the game or can get back to the game home page after the result is declared.
+- Rock,Paper and Scissors is a fun game where there is a single player in this game whose opponent is computer in this game.
+- The player in this game chooses any of the three options Rock or Paper or Scissors and accordingly the computer randomly generates an option at the same time.
+- Depending upon both the player and computer options and based on the game logic the result is declared as either player or computer is won or may be a tie.
+- This game  contains 10 rounds where each time the player or computer winning game is considered as one round and tie is not considered as a round.
+- Accordingly the scores are incremented at each round of the game. 
+- After  10 rounds the result is declared based upon the scores of player and computer at that time.
+- The player can replay the game or can get back to the game home page after the result is declared.
 
 **Tools and Languages used in development of the game**
 *The hompe page is developed completely using html where all the content there is written using appropriate html elements.The video html element was also added in this page
