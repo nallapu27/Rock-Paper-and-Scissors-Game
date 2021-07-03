@@ -38,6 +38,6 @@ score is compared and appropriately the winning or losing or tie gameover result
 - The above lines are brief description of this game project.Since this an open source public project anyone can suggest any changes or suggestions to improvise this project.
 - New suggestions and improvements to this game are always welcomed.
 
-_Project By Chaitanya Bhargav N
-IIT Kharagpur.
-Github profile:nallapu27
+*_Project By Chaitanya Bhargav N*
+*IIT Kharagpur.*
+*Github profile:nallapu27*
