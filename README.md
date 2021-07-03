@@ -1,6 +1,6 @@
 # Rock-Paper-and-Scissors-Game
 
-***Description of the Game
+**Description of the Game**
 *Rock,Paper and Scissors is a fun game where there is a single player in this game whose opponent is computer in this game.
 *The player in this game chooses any of the three options Rock or Paper or Scissors and accordingly the computer randomly generates an option at the same time.
 *Depending upon both the player and computer options and based on the game logic the result is declared as either player or computer is won or may be a tie.
@@ -9,7 +9,7 @@
 *After  10 rounds the result is declared based upon the scores of player and computer at that time.
 *The player can replay the game or can get back to the game home page after the result is declared.
 
-***Tools and Languages used in development of the game
+**Tools and Languages used in development of the game**
 *The hompe page is developed completely using html where all the content there is written using appropriate html elements.The video html element was also added in this page
 *The CSS style properties are used to style up these html elements using appropriate class names and id names for almost all the html elements.
 *Some of the CSS properties that were involved with particular type of html elements are border properties,margin and padding properties,flex properties,text styling and decoration 
@@ -21,7 +21,7 @@ with js objects,functions,variables and loops.
 round.
 
 
-***Game development logic
+**Game development logic**
 *Whenever the player clicks on any option in response to it the computer randomly generates an option and both the player choice and computer choice and rounds count is sent as 
 parameters to a  function in which depending on the options and game winning strategies the corresponding lose or win or tie text is appropriately displayed.
 *This function also makes coreesponding increment in player score and computer score and round count depending on the result of each round.It also displays the right image of both player choice and 
@@ -34,7 +34,7 @@ score is compared and appropriately the winning or losing or tie gameover result
 *The settime out attribute is used in the foreach loop which makes 2s delay in siaplaying the appropriate images of both player and computer whenever an option is clicked.
 *The 2s gap everytime is used to add handshake effect animation which is also present in the foreach loop and gets activated whenever any option is clicked by the player in the game rounds.
 
-***Conclusion
+**Conclusion**
 *The above lines are brief description of this game project.Since this an open source public project anyone can suggest any changes or suggestions to improvise this project.
 *New suggestions and improvements to this game are always welcomed.
 
