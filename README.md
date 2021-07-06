@@ -3,7 +3,7 @@
 # [Go to Rock,Paper and Scissors game](https://nallapu27.github.io/Rock-Paper-and-Scissors-Game/)
 
 <img src="https://github.com/nallapu27/Rock-Paper-and-Scissors-Game/blob/main/Game%20screenshots/Game%20screenshots/Game%20Home%20page.png" height=400 width=1000 />
-<img src="
+<img src="https://github.com/nallapu27/Rock-Paper-and-Scissors-Game/blob/main/Game%20screenshots/Game%20screenshots/Game%20page%20Screenshot.png" height=400 width=1000 />
 <img src="https://github.com/nallapu27/Rock-Paper-and-Scissors-Game/blob/main/Game%20screenshots/Game%20screenshots/Result%20declaration%20Screenshot.png" height=400 width=1000/>
 
 # **Description of the Game**:
