@@ -1,7 +1,7 @@
 
 
 .background1{
-    background-color: violet;
+    background-color: rgb(255, 153, 0);
     height: 100%;
     margin-top: none;
 }
@@ -16,11 +16,13 @@
 .test2{
     text-align: center;
     text-decoration: underline;
+    color: white;
 }
 .videosection{
     text-align: center;
     text-decoration: underline;
     padding-left: 80px;
+    color: white;
 }
 .video{
     margin-left: 600px;
