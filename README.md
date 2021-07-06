@@ -1,6 +1,6 @@
 # Rock-Paper-and-Scissors-Game
 
-# [Go to Rock,Paper Scissors game](https://nallapu27.github.io/Rock-Paper-and-Scissors-Game/)
+# [Go to Rock,Paper and Scissors game](https://nallapu27.github.io/Rock-Paper-and-Scissors-Game/)
 
 # **Description of the Game**:
 - Rock,Paper and Scissors is a fun game where there is a single player in this game whose opponent is computer in this game.
