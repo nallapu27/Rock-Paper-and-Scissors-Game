@@ -2,6 +2,8 @@
 
 # [Go to Rock,Paper and Scissors game](https://nallapu27.github.io/Rock-Paper-and-Scissors-Game/)
 
+<img src="https://github.com/nallapu27/Rock-Paper-and-Scissors-Game/blob/main/Game%20screenshots/Game%20screenshots/Result%20declaration%20Screenshot.png" height=250 width-250"/>
+
 # **Description of the Game**:
 - Rock,Paper and Scissors is a fun game where there is a single player in this game whose opponent is computer in this game.
 - The player in this game chooses any of the three options Rock or Paper or Scissors and accordingly the computer randomly generates an option at the same time.
