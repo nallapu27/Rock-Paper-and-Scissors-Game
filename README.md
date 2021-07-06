@@ -1,4 +1,4 @@
-# Rock-Paper-and-Scissors-Game
+# Rock-Paper-and-Scissors
 
 # [Go to Rock,Paper and Scissors game](https://nallapu27.github.io/Rock-Paper-and-Scissors-Game/)
 
