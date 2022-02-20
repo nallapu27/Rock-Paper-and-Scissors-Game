@@ -1,13 +1,28 @@
 # Rock-Paper-and-Scissors-Game
 -Fun game with good user expereince
 
-# [Go to Rock,Paper and Scissors game](https://nallapu27.github.io/Rock-Paper-and-Scissors-Game/)
+# Group Members
+1. Chaitanya Bhargav N 
+2. Darshan Ghorpade
+3. Abhitesh Kumar
+4. Tushar Jayant
 
+# Azure services used in project 
+1. Azure Static Web App
+    Azure Static Web Apps allows you to build modern web applications that automatically 
+    publish to the web as your code changes.
+    
+
+# [Go to Rock,Paper and Scissors game](https://zealous-river-09636a810.1.azurestaticapps.net/)
+
+# [Go to Video Demo](https://drive.google.com/file/d/1fgq3RPLLrgZPxfozrEcoP8l-C-C7d6Ps/view?usp=sharing)
+
+# Screen Captures of project
 <img src="https://github.com/nallapu27/Rock-Paper-and-Scissors-Game/blob/main/Game%20screenshots/Game%20screenshots/Game%20Home%20page.png" height=400 width=1000 />
 <img src="https://github.com/nallapu27/Rock-Paper-and-Scissors-Game/blob/main/Game%20screenshots/Game%20screenshots/Game%20page%20Screenshot.png" height=400 width=1000 />
 <img src="https://github.com/nallapu27/Rock-Paper-and-Scissors-Game/blob/main/Game%20screenshots/Game%20screenshots/Result%20declaration%20Screenshot.png" height=400 width=1000/>
 
-# **Description of the Game**:
+# **Description of the Rock Paper Scissors Game**:
 - Rock,Paper and Scissors is a fun game where there is a single player in this game whose opponent is computer in this game.
 - The player in this game chooses any of the three options Rock or Paper or Scissors and accordingly the computer randomly generates an option at the same time.
 - Depending upon both the player and computer options and based on the game logic the result is declared as either player or computer is won or may be a tie.
@@ -44,7 +59,3 @@ score is compared and appropriately the winning or losing or tie gameover result
 # **Conclusion**:
 - The above lines are brief description of this game project.Since this an open source public project anyone can suggest any changes or suggestions to improvise this project.
 - New suggestions and improvements to this game are always welcomed.
-
-- *_Project By Chaitanya Bhargav N*
-- *IIT Kharagpur.*
-- *Github profile:nallapu27*
